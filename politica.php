@@ -81,8 +81,6 @@
     <p>Avicola Don Ignacio Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en
         cualquier
         momento.</p>
-    <p>Esta politica de privacidad se han generado en <a href="https://politicadeprivacidadplantilla.com/"
-            target="_blank">politicadeprivacidadplantilla.com</a>.<br></p>
 </body>
 
 </html>
