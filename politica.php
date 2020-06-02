@@ -53,8 +53,7 @@
         ayudan
         a proporcionar un mejor servicio de los sitios web, estás no dan acceso a información de su ordenador ni de
         usted, a
-        menos de que usted así lo quiera y la proporcione directamente, <a href="https://recargalebara.es"
-            target="_blank">visitas a una web </a>. Usted puede aceptar o negar el uso de cookies, sin embargo la
+        menos de que usted así lo quiera y la proporcione directamente. Usted puede aceptar o negar el uso de cookies, sin embargo la
         mayoría de
         navegadores aceptan cookies automáticamente pues sirve para tener un mejor servicio web. También usted puede
         cambiar
